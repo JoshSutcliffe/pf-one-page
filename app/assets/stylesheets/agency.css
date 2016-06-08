@@ -3,3 +3,21 @@ body{overflow-x:hidden;font-family:"Roboto Slab","Helvetica Neue",Helvetica,Aria
 .email-icon {
   color: white !IMPORTANT;
 }
+
+.email-icon:hover {
+  color: #fed136 !IMPORTANT;
+  transition: .3s;
+}
+
+.fa-envelope {
+  color: #222 !IMPORTANT;
+}
+
+/*.fa-envelope:hover {
+  color: #fed136 !IMPORTANT;
+  transition: .3s;
+}*/
+
+/*.text-primary:hover {
+  background-color: #fed136 !IMPORTANT;
+}*/
